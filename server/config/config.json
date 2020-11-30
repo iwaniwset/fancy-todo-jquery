@@ -1,7 +1,7 @@
 {
   "development": {
     "username": "postgres",
-    "password": "copenhagenfox03",
+    "password": "",
     "database": "fancy-todos",
     "host": "localhost",
     "dialect": "postgres"
